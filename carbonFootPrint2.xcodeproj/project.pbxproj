@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D241572C2AB75FA900DE46F5 /* CarbonEmissionsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D241572B2AB75FA900DE46F5 /* CarbonEmissionsDetailView.swift */; };
 		D2848E5A2AB6694500A4F7AC /* carbonFootPrint2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2848E592AB6694500A4F7AC /* carbonFootPrint2App.swift */; };
 		D2848E5C2AB6694600A4F7AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2848E5B2AB6694600A4F7AC /* ContentView.swift */; };
 		D2848E5E2AB6694700A4F7AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2848E5D2AB6694700A4F7AC /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D241572B2AB75FA900DE46F5 /* CarbonEmissionsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarbonEmissionsDetailView.swift; sourceTree = "<group>"; };
 		D2848E562AB6694500A4F7AC /* carbonFootPrint2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = carbonFootPrint2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2848E592AB6694500A4F7AC /* carbonFootPrint2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carbonFootPrint2App.swift; sourceTree = "<group>"; };
 		D2848E5B2AB6694600A4F7AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				D2848E592AB6694500A4F7AC /* carbonFootPrint2App.swift */,
 				D2848E5B2AB6694600A4F7AC /* ContentView.swift */,
+				D241572B2AB75FA900DE46F5 /* CarbonEmissionsDetailView.swift */,
 				D2848E5D2AB6694700A4F7AC /* Assets.xcassets */,
 				D2848E5F2AB6694700A4F7AC /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D241572C2AB75FA900DE46F5 /* CarbonEmissionsDetailView.swift in Sources */,
 				D2848E5C2AB6694600A4F7AC /* ContentView.swift in Sources */,
 				D2848E5A2AB6694500A4F7AC /* carbonFootPrint2App.swift in Sources */,
 			);
